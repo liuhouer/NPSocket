@@ -1,4 +1,4 @@
-package cn.northpark.npsocket;
+package cn.northpark.npsocket.socket;
 
 import java.io.BufferedReader;
 import java.io.IOException;
